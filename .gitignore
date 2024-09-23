@@ -1,4 +1,5 @@
-volumes/jenkins
+volumes/
+keys/
 
 # Learn more about Jenkins and JENKINS_HOME directory for which this file is
 # intended.
